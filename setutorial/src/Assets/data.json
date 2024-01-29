@@ -1,0 +1,21 @@
+[
+{
+    "name": "Usman Arshid",
+    "age": 30,
+    "gender": "Male",
+    "location": "Cityville",
+    "occupation": "Software Engineer",
+    "email": "usman.arshid@example.com",
+    "phone": "+1 (555) 123-4567",
+    "interests": ["Technology", "Reading", "Hiking"],
+    "education": {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Tech University"
+    },
+    "social_media": {
+      "twitter": "@usmanarshid",
+      "linkedin": "linkedin.com/in/usmanarshid"
+    }
+}
+]
+  
